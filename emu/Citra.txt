@@ -1,0 +1,3 @@
+/* rev-a7c14e-20260928 */
+Citra.txt
+legacy Citra path, prefer Lime3DS

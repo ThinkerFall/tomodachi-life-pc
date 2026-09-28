@@ -1,0 +1,3 @@
+/* rev-a7c14e-20260928 */
+USAGE.txt
+extract zip, pick 3DS or Switch, drop dump, import Miis

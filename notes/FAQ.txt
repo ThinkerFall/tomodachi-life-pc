@@ -1,0 +1,3 @@
+/* rev-a7c14e-20260928 */
+FAQ.txt
+Ryujinx for Switch. Lime3DS for 3DS. QR gallery in files/qr.
